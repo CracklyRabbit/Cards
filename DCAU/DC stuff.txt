@@ -1,0 +1,59 @@
+DCAU
+
+cards done:
+
+Batman (Bruce Wayne) - 49083
+Batman (Terry McGinnis) - Beyond - 12593
+Black Canary (Dinah Laurel Lance) - 60378
+Brainiac - 98072
+Green Arrow (Oliver Queen) - 27695
+Green Lantern (John Stewart) - 38855
+Harley Quinn (Harleen Quinzel) - 94969
+Hawkgirl (Shayera Hol) - 15012
+Jimmy Olsen - 99618
+Lex Luthor - 68964
+Lois Lane - 75647
+Martian Manhunter (J'onn J'onzz) - 93701
+Supergirl (Kara Kent) - 35701
+Superman (Clark Kent) - 24489
+Superman (Clark Kent) - Shirt Rip - 47486
+The Flash (Wally West) - 18301
+The Joker - Justice League - 27452
+Wonder Woman (Diana Prince) - 73908
+
+
+
+
+
+BATMAN TAS
+
+__DCAU__
+
+- Batman (Bruce Wayne)*
+- Bruce Wayne
+
+- Nightwing (Dick Grayson)
+- Jim Gordon
+- Harvey Bullock
+
+- The Joker
+- Harley Quinn (Harleen Quinzel)*
+- Catwoman (Selina Kyle)
+- Poison Ivy (Dr. Pamela Lillian Isley)
+- Two-Face (Harvey Dent)
+- Mr. Freeze (Dr. Victor Fries)
+- Riddler (Edward Nygma)
+- Scarecrow (Dr. Jonathan Crane)
+
+Characters to do:
+
+- Alfred Pennyworth
+- Robin (Dick Grayson)
+- Batgirl (Barbara Gordon)
+- Joker - Christmas
+- Bane
+- Penguin (Oswald Cobblepot)
+- Ra's al Ghul
+- Phantasm
+- Mad Hatter (Dr. Jervis Tetch)
+- Killer Croc (Waylon Jones)
